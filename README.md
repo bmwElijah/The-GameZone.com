@@ -1,1 +1,1 @@
-hello
+Game Zone is an online gaming website that brings many types of games into one place. It includes action, adventure, strategy, sports, racing, puzzle, simulation, multiplayer, and casual games. The site is easy to use, works on all devices, and connects players through chat, community features, and Discord for news, updates, and gaming events live.
